@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Kevin","characterIndex":0,"characterName":"Kevin","classId":1,"equips":[1,0,0,3,0],"faceIndex":0,"faceName":"Kevin","traits":[],"initialLevel":10,"maxLevel":99,"name":"Kevin","nickname":"","note":"","profile":"\"An ordinary village boy who dreams of becoming a hero.\""},
+{"id":2,"battlerName":"Eiile","characterIndex":0,"characterName":"Ellie","classId":3,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Ellie","traits":[{"code":43,"dataId":8,"value":1},{"code":43,"dataId":9,"value":1},{"code":43,"dataId":10,"value":1},{"code":43,"dataId":12,"value":1},{"code":43,"dataId":25,"value":1}],"initialLevel":10,"maxLevel":99,"name":"Ellie","nickname":"","note":"","profile":"\"The daughter of the village chief of Cecilia Village, and childhood sweetheart of Kevin.\""}
+]
